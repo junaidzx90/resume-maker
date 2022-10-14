@@ -1,0 +1,252 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Resume Maker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-02 14:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: resume-maker"
+
+#. Description of the plugin
+msgid "[resume_maker]"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:71
+msgid ""
+"A varied education on your resume sums up the value that your learnings and "
+"background will bring to job."
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:119
+msgid "Add education"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:174
+msgid "Add employment"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:257
+msgid "Add language"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:120
+msgid "Add one more education"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:175
+msgid "Add one more employment"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:258
+msgid "Add one more language"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:217
+msgid "Add one more skill"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:216
+msgid "Add skill"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:202
+msgid "Beginner"
+msgstr ""
+
+msgid "Undefined"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:181
+msgid ""
+"Choose 5 of the most important skills to show your talents! Make sure they "
+"match the keywords of the job listing if applying via an online system."
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:53
+#: public/partials/resume-maker-public-display.php:102
+#: public/partials/resume-maker-public-display.php:157
+msgid "City"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:88
+msgid "Degree"
+msgstr ""
+
+msgid "Certificate"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:108
+msgid "Description"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:275
+msgid "Details"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:395
+msgid "Download"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:70
+msgid "Educations"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:41
+msgid "Email"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:143
+msgid "Employer"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:357
+msgid "EMPLOYMENT HISTORIES"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:125
+msgid "Employment History"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:204
+msgid "Experienced"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:205
+msgid "Expert"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:223
+msgid ""
+"Express your language skills, select a few languages in which you are "
+"proficient."
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:29
+msgid "First Name"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:244
+msgid "Highly proficient"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:138
+msgid "Job Title"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:235
+msgid "Language"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:222
+#: public/partials/resume-maker-public-display.php:303
+msgid "Languages"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:34
+msgid "Family Name"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:198
+#: public/partials/resume-maker-public-display.php:240
+msgid "Level"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:243
+msgid "Native speaker"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:201
+msgid "Novice"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:25
+msgid "Personal Details"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:46
+msgid "Phone"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:62
+msgid "Professional Summary"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:314
+msgid "Profile"
+msgstr ""
+
+#. Name of the plugin
+msgid "Resume Maker"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:83
+msgid "School"
+msgstr ""
+
+msgid "School:"
+msgstr ""
+
+msgid "Certificate:"
+msgstr ""
+
+msgid "City:"
+msgstr ""
+
+msgid "Description:"
+msgstr ""
+
+msgid "Job Title:"
+msgstr ""
+
+msgid "Employer:"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:200
+#: public/partials/resume-maker-public-display.php:242
+msgid "Select Level"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:126
+msgid ""
+"Show your relevant experience (last 10 years). Use bullet points to note "
+"your achievements, if possible - use numbers/facts (Achieved X, measured by "
+"Y, by doing Z)."
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:193
+msgid "Skill"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:180
+msgid "Skill's"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:203
+msgid "Skillful"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:95
+#: public/partials/resume-maker-public-display.php:150
+msgid "Start & End Date"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:336
+#: public/partials/resume-maker-public-display.php:372
+msgid "Start & End Date:"
+msgstr ""
+
+msgid "Birthday"
+msgstr ""
+
+#: public/partials/resume-maker-public-display.php:245
+msgid "Very good comand"
+msgstr ""
